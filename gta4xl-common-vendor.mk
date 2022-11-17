@@ -78,46 +78,16 @@ PRODUCT_PACKAGES += \
     libGLES_mali \
     camera.exynos9611 \
     gatekeeper.exynos9611 \
-    gralloc.exynos9611 \
-    hwcomposer.exynos9611 \
-    libExynosHWCService \
-    libExynosOMX_Core \
-    libExynosOMX_Resourcemanager \
-    libGrallocWrapper \
     libSEF.quram \
-    libacryl \
-    libacryl_plugin_slsi_hdr10 \
-    libcsc \
-    libdrmresource \
     libexynoscamera_plugin \
-    libexynosdisplay \
-    libexynosgraphicbuffer \
-    libexynosscaler \
-    libexynosutils \
-    libexynosv4l2 \
     libfloatingfeature \
-    libgiantmscl \
-    libhwjpeg \
-    libion_exynos \
     libsecaudioinfo \
     libsecnativefeature \
     libsensorlistener \
-    libstagefrighthw \
     libteecl \
     libuniapi \
     libuniplugin \
     libuuid \
-    libOMX.Exynos.AVC.Decoder \
-    libOMX.Exynos.AVC.Encoder \
-    libOMX.Exynos.HEVC.Decoder \
-    libOMX.Exynos.HEVC.Encoder \
-    libOMX.Exynos.MPEG4.Decoder \
-    libOMX.Exynos.MPEG4.Encoder \
-    libOMX.Exynos.VP8.Decoder \
-    libOMX.Exynos.VP8.Encoder \
-    libOMX.Exynos.VP9.Decoder \
-    libOMX.Exynos.VP9.Encoder \
-    libOMX.Exynos.WMV.Decoder \
     sensors.grip \
     sensors.sensorhub \
     libaudioeffectoffload \
