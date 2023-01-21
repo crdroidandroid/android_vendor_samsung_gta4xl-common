@@ -32,6 +32,12 @@ on post-fs-data
     chmod 0666 /dev/scsc_log_collector_0 
     chown wifi wifi /sys/wifi/memdump
     chmod 0644 /sys/wifi/memdump
+	
+	# for WIFI TRP/TIS
+    chown wifi wifi /data/vendor/conn/.psm.info
+    chmod 0644 /data/vendor/conn/.psm.info
+    chown wifi wifi /sys/wifi/pm
+    chmod 0640 /sys/wifi/pm
 
 on fs
 # scsc daemon
